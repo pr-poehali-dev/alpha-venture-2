@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 interface HeaderProps {
   className?: string;
 }
@@ -14,6 +16,12 @@ export default function Header({ className }: HeaderProps) {
           >
             Услуги
           </a>
+          <Link
+            to="/about"
+            className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-sm"
+          >
+            О нас
+          </Link>
           <a
             href="#contact"
             className="text-white hover:text-neutral-400 transition-colors duration-300 uppercase text-sm"
