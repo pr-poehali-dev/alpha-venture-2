@@ -6,37 +6,37 @@ const items = [
   {
     id: 1,
     category: "НАВЕСЫ",
-    image: "https://cdn.poehali.dev/projects/200825d2-723d-458f-b370-2654d41822dd/files/819a32a9-2c6c-4af6-8bb4-1b09bc630860.jpg",
+    image: "https://cdn.poehali.dev/projects/200825d2-723d-458f-b370-2654d41822dd/files/42ad21d9-ebf7-49e0-b511-7b900b996494.jpg",
     title: "Навес из профильной трубы",
   },
   {
     id: 2,
     category: "ВОРОТА",
-    image: "https://cdn.poehali.dev/projects/200825d2-723d-458f-b370-2654d41822dd/files/b6b0b372-a7e4-48eb-a087-dc24fe94ff5e.jpg",
+    image: "https://cdn.poehali.dev/projects/200825d2-723d-458f-b370-2654d41822dd/files/c305daf8-eeff-4d1b-9832-9e8c3b68d60f.jpg",
     title: "Кованые распашные ворота",
   },
   {
     id: 3,
     category: "БЕСЕДКИ",
-    image: "https://cdn.poehali.dev/projects/200825d2-723d-458f-b370-2654d41822dd/files/a64d3513-f78f-4308-97cd-06308e062da9.jpg",
+    image: "https://cdn.poehali.dev/projects/200825d2-723d-458f-b370-2654d41822dd/files/6f5ddd0e-4742-4ebf-bfcf-70a97b6a4f17.jpg",
     title: "Металлическая беседка",
   },
   {
     id: 4,
     category: "КОЗЫРЬКИ",
-    image: "https://cdn.poehali.dev/projects/200825d2-723d-458f-b370-2654d41822dd/files/819a32a9-2c6c-4af6-8bb4-1b09bc630860.jpg",
+    image: "https://cdn.poehali.dev/projects/200825d2-723d-458f-b370-2654d41822dd/files/b477f027-9050-41b1-853f-ac91562884b5.jpg",
     title: "Козырёк над входом",
   },
   {
     id: 5,
     category: "ЛЕСТНИЦЫ",
-    image: "https://cdn.poehali.dev/projects/200825d2-723d-458f-b370-2654d41822dd/files/b6b0b372-a7e4-48eb-a087-dc24fe94ff5e.jpg",
+    image: "https://cdn.poehali.dev/projects/200825d2-723d-458f-b370-2654d41822dd/files/0c189bc7-d57f-4483-8cb1-89c085ee574c.jpg",
     title: "Металлическая лестница",
   },
   {
     id: 6,
     category: "ЗАБОРЫ",
-    image: "https://cdn.poehali.dev/projects/200825d2-723d-458f-b370-2654d41822dd/files/a64d3513-f78f-4308-97cd-06308e062da9.jpg",
+    image: "https://cdn.poehali.dev/projects/200825d2-723d-458f-b370-2654d41822dd/files/79266d25-8c42-4343-99a9-f173432dd23a.jpg",
     title: "Секционный металлический забор",
   },
 ];

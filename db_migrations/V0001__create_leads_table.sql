@@ -1,0 +1,6 @@
+CREATE TABLE t_p37404882_alpha_venture_2.leads (
+  id SERIAL PRIMARY KEY,
+  name VARCHAR(255) NOT NULL,
+  phone VARCHAR(50) NOT NULL,
+  created_at TIMESTAMP DEFAULT NOW()
+);
