@@ -3,12 +3,20 @@ export default function Footer() {
     <div className="bg-neutral-950 border-t border-neutral-900">
       {/* Big transparent brand name */}
       <div className="relative overflow-hidden py-8 sm:py-10">
-        <h1
-          className="text-[22vw] leading-none font-black tracking-tight text-center select-none"
-          style={{ color: "rgba(255,255,255,0.06)" }}
-        >
-          МЕТАЛЛСТРОЙ
-        </h1>
+        <div className="flex items-baseline justify-center gap-[3vw]">
+          <h1
+            className="text-[22vw] leading-none font-black tracking-tight select-none"
+            style={{ color: "rgba(255,255,255,0.06)" }}
+          >
+            МЕТАЛЛ
+          </h1>
+          <h1
+            className="text-[22vw] leading-none font-black tracking-tight select-none"
+            style={{ color: "rgba(255,255,255,0.04)" }}
+          >
+            СТРОЙ
+          </h1>
+        </div>
       </div>
 
       {/* Bottom bar */}
